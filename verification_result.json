@@ -1,0 +1,49 @@
+{
+  "student_name": "Donghyun Kim",
+  "timestamp": "2025-11-15T20:26:02.961835",
+  "python_version": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:53:07) [Clang 19.1.7 ]",
+  "platform": "macOS-13.0-x86_64-i386-64bit",
+  "packages": {
+    "NumPy": {
+      "installed": true,
+      "version": "2.3.4",
+      "error": null
+    },
+    "Pandas": {
+      "installed": true,
+      "version": "2.3.3",
+      "error": null
+    },
+    "Matplotlib": {
+      "installed": true,
+      "version": "3.10.8",
+      "error": null
+    },
+    "Seaborn": {
+      "installed": true,
+      "version": "0.13.2",
+      "error": null
+    },
+    "SciPy": {
+      "installed": true,
+      "version": "1.16.3",
+      "error": null
+    },
+    "scikit-learn": {
+      "installed": true,
+      "version": "1.7.2",
+      "error": null
+    },
+    "Biopython": {
+      "installed": true,
+      "version": "1.86",
+      "error": null
+    },
+    "PyRosetta": {
+      "installed": true,
+      "version": "unknown",
+      "error": null
+    }
+  },
+  "verification_passed": true
+}
